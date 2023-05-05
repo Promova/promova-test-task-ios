@@ -10,6 +10,7 @@ Write a simple application that allows users to see a list of animal categories 
 - SwiftUI is required.
 - async/await is preferred.
 - DI preferred.
+- iOS 15+
 
 ## Functional Requirements
 
